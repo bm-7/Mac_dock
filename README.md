@@ -23,5 +23,5 @@ To run the project on your local machine, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mac_dock.git
+   git clone https://github.com/bm-7/mac_dock.git
    cd mac_dock
