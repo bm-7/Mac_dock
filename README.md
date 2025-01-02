@@ -1,16 +1,27 @@
-# dock
+# Mac Dock
 
-A new Flutter project.
+A Flutter-based implementation of a customizable dock, inspired by macOS.
+
+## Features
+- Drag-and-drop reordering of icons
+- Hover animations with smooth transitions
+- Fully responsive design for various screen sizes
+- Lightweight and customizable widget
+
+## Preview
+![Preview of the Dock](link-to-your-screenshot-or-gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the project on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK installed
+- Dart installed
+- A code editor like VSCode or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mac_dock.git
+   cd mac_dock
